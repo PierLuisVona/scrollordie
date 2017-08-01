@@ -1,9 +1,5 @@
-# # # # # # # # # # # # #
-#   K i k o - p l u s   #
-# # # # # # # # # # # # #
-
 # Basic
-name:               "Kiko Plus"
+name:               "Scroll or Die"
 
 author:
   facebook:         your-id
@@ -24,7 +20,7 @@ author:
 
 copyright:
   year:             2017
-  name:             Kiko
+  name:             Pierluisvona
 
 # Google-analytics
 google-analytics:
@@ -32,12 +28,12 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               "Scroll or Die"
 
 # URL
 url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
-baseurl:            "/Kiko-plus" # the subpath of your site, e.g. /blog
+baseurl:            #"/Kiko-plus" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -57,12 +53,9 @@ kramdown:
 nav:
   - name:           "About"
     url:            "/about"
-  - name:           "Archive"
+  - name:           "Archivio"
     url:            "/archive"
-  - name:           "Tags"
-    url:            "/tags"
-  - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+
 
 # Sass
 sass:
