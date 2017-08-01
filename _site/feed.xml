@@ -158,7 +158,7 @@
 
 &lt;p&gt;이 문서는 &lt;a href=&quot;http://guny.kr/stuff/klorem/&quot;&gt;한글 Lorem Ipsum&lt;/a&gt;으로 생성되었습니다.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 19 Jan 2017 00:00:00 +0900</pubDate>
+        <pubDate>Thu, 19 Jan 2017 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/scrollordie/2017-01-19/style-test-ko/</link>
         <guid isPermaLink="true">http://localhost:4000/scrollordie/2017-01-19/style-test-ko/</guid>
       </item>
@@ -208,7 +208,7 @@
 
 &lt;p&gt;이 문서는 &lt;a href=&quot;http://guny.kr/stuff/klorem/&quot;&gt;한글 Lorem Ipsum&lt;/a&gt;으로 생성되었습니다.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 19 Jan 2017 00:00:00 +0900</pubDate>
+        <pubDate>Thu, 19 Jan 2017 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/scrollordie/2017-01-19/readability-post-ko/</link>
         <guid isPermaLink="true">http://localhost:4000/scrollordie/2017-01-19/readability-post-ko/</guid>
       </item>
@@ -362,7 +362,7 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 15 Aug 2016 00:00:00 +0900</pubDate>
+        <pubDate>Mon, 15 Aug 2016 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/scrollordie/2016-08-15/style-test/</link>
         <guid isPermaLink="true">http://localhost:4000/scrollordie/2016-08-15/style-test/</guid>
       </item>
@@ -441,7 +441,7 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Fri, 16 Aug 2013 00:00:00 +0900</pubDate>
+        <pubDate>Fri, 16 Aug 2013 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/scrollordie/2013-08-16/code-highlighting-post/</link>
         <guid isPermaLink="true">http://localhost:4000/scrollordie/2013-08-16/code-highlighting-post/</guid>
       </item>
@@ -450,7 +450,7 @@
         <title>Sample Link Post</title>
         <description>
 </description>
-        <pubDate>Mon, 12 Aug 2013 00:00:00 +0900</pubDate>
+        <pubDate>Mon, 12 Aug 2013 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/scrollordie/2013-08-12/sample-link-post/</link>
         <guid isPermaLink="true">http://localhost:4000/scrollordie/2013-08-12/sample-link-post/</guid>
       </item>
@@ -498,7 +498,7 @@
 
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 22 May 2012 00:00:00 +0900</pubDate>
+        <pubDate>Tue, 22 May 2012 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/scrollordie/2012-05-22/readability-post/</link>
         <guid isPermaLink="true">http://localhost:4000/scrollordie/2012-05-22/readability-post/</guid>
       </item>
