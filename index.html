@@ -4,7 +4,7 @@ layout: default
 
 <header class="header">
   <div class="header-title">
-    <a href="{{ site.url }}{{ site.baseurl }}"><img src="{{site.baseurl}}/images/title.png" width="50%" class="img-responsive img-rounded"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}"><img src="{{site.baseurl}}/images/title.png" width="60%" class="img-responsive img-rounded"></a>
   </div>
   <nav class="header-nav">
     {% for nav in site.nav %}
@@ -19,7 +19,7 @@ layout: default
 
 <div class="list">
 {% if site.posts.size == 0 %}
-  <h2>No post found</h2>
+  <h2>No post yet</h2>
 {% else %}
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
