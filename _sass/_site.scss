@@ -81,7 +81,7 @@ body {
   text-transform: uppercase;
 
   a {
-    color: $base-color;
+    color: $base-lighten-color;
 
     &:hover,
     &:focus {
@@ -184,7 +184,7 @@ body {
 .list {
   &-post {
     padding: 4% 2%;
-    
+
     &:hover {
       background-color: $background-over-color;
       border-color: transparent;
@@ -373,7 +373,7 @@ body {
     margin: .2rem;
 
     a {
-      color: $base-color;
+      color: $base-lighten-color;
       margin: 4px;
     }
   }

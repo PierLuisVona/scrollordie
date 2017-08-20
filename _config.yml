@@ -6,7 +6,7 @@ author:
 
 copyright:
   year:             2017
-  name:             Pierluisvona
+  name:             PLV
 
 # Google-analytics
 google-analytics:
@@ -37,12 +37,12 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "Asl"
-    url:            "/alternanza"
   - name:           "Archivio"
     url:            "/archive"
   - name:           "About"
     url:            "/about"
+  - name:           "Asl"
+    url:            "/alternanza"
 
 
 
