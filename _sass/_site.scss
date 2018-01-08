@@ -4,6 +4,13 @@
           box-sizing: border-box;
 }
 
+
+mark {
+    background-color: $oc-sod;
+    color: $oc-black;
+}
+
+
 html {
   font-family: $base-font;
   font-size: $base-font-size;
